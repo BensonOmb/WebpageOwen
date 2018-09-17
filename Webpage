@@ -2,15 +2,35 @@
 <html>
       <head>
             <meta charset="utf-8">
-             <title> Food </title>
+             <title> GoodestFood </title>
       </head>
+      
+     <style>
+            body{  background-color:lightblue;
+            }
+     </style>
+      
     <body>
-       <h1> Best Restauraunts </h1>
+     
+       <h1> <strong> Best Restauraunts </strong>
+           
+       </h1>
+       <img src="https://c6.staticflickr.com/5/4122/4898230220_72587d64d1_z.jpg"
+       width="500">
+       <img src="https://farm7.staticflickr.com/7321/14098060412_befacffd0a_o.jpg"
+       width="500">
           <ul>
               <li> Taco bell <br>
-                    Jimmy Johns <br>
-                   Five guys  
-              </li>
+              <li> Jimmy Johns <br>
+              <li> Five guys  <br> 
+              <li> Chipotle  <br>
+              <li> Panda Express <br>
+              <li> Little Caesers
           </ul>
+         <img src="https://farm5.staticflickr.com/3397/3440738692_be62d98c7a_o.jpg"
+          width="500">
+          <img src="https://c1.staticflickr.com/5/4017/4456281774_d9deb828c3_z.jpg?zz=1"
+           width="500">
+         
      </body>
 </html>
